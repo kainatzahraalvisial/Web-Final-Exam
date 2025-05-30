@@ -1,0 +1,44 @@
+# Visual Studio temporary files and user-specific settings
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.csproj.user
+
+# Build output directories
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+# ASP.NET temporary files
+*.csproj.DotSettings
+*.cache
+*.log
+*.tlog
+*.bak
+
+# Database files in App_Data
+App_Data/*.mdf
+App_Data/*.ldf
+
+# NuGet packages
+packages/
+*.nupkg
+
+# Visual Studio IDE and test files
+.vs/
+TestResults/
+*.trx
+*.xml
+
+# Miscellaneous
+*.publishproj
+*.pubxml
+*.pdb
+*.config
+[Dd]ebug/
+[Rr]elease/
+*.bak
+*.tmp
+*.swp
